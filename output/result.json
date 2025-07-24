@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "input_documents": [
+      "2.pdf"
+    ],
+    "persona": "I am a student at IIT Mandi pursuing Btech in mathematics and Computing",
+    "job_to_be_done": "I want data relavent to education and Mathematics",
+    "processing_timestamp": "2025-07-24T16:39:01.770635",
+    "total_sections_analyzed": 145,
+    "top_sections_selected": 10,
+    "model_info": {
+      "model_name": "all-MiniLM-L6-v2",
+      "model_loaded": false,
+      "dependencies_available": false,
+      "weights": {
+        "semantic": 0.6,
+        "lexical": 0.25,
+        "title_match": 0.15
+      }
+    },
+    "persona_analysis": {
+      "extracted_role": "student",
+      "identified_domain": "education",
+      "expertise_level": "beginner",
+      "key_search_terms": 8
+    },
+    "job_analysis": {
+      "primary_job_type": "general",
+      "main_goals": [],
+      "deliverable_type": "information",
+      "urgency": "normal"
+    }
+  },
+  "extracted_sections": [
+    {
+      "rank": 1,
+      "relevance_score": 0.1128,
+      "document_name": "2.pdf",
+      "section_title": "7    The Centre for Humanitarian Data provides several sources of guidance that can inform the development of Data Incident Management SOPs on",
+      "page_number": 4,
+      "page_range": {
+        "start": 4,
+        "end": 4
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "the Data Responsibility page.\n8    How to handle incidents according to ISO 27001 A.16, Antonio Jose Segovia, (October 2015.).\n9    For humanitarian organizations, an example of such a classification is the World Health Organization’s (WHO) International Classification of\nPatient Safety, Conceptual Framework for the International Classification of Patient Safety.\n10 WHO, Conceptual Framework for the International Classification of Patient Safety.\nFigure 3: Five steps in the treatment of security incidents (Source: How to handle incidents according to ISO 27001 A.16,\nAntonio Jose Segovia8",
+        "word_count": 83,
+        "character_count": 594
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": true,
+        "contains_medium_priority_terms": true,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 594,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.31275000000000003
+      }
+    },
+    {
+      "rank": 2,
+      "relevance_score": 0.09,
+      "document_name": "2.pdf",
+      "section_title": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 1,
+      "content": {
+        "text": "AUGUST 2019\na threat source.” NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.",
+        "word_count": 16,
+        "character_count": 112
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": true,
+        "contains_medium_priority_terms": true,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 112,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.29000000000000004
+      }
+    },
+    {
+      "rank": 3,
+      "relevance_score": 0.09,
+      "document_name": "2.pdf",
+      "section_title": "types of organizations: those who have been hacked, and those who will be.”",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "- Rahel Dette, Do No Digital Harm: Mitigating Technology Risk in Humanitarian Contexts",
+        "word_count": 13,
+        "character_count": 86
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 86,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.29000000000000004
+      }
+    },
+    {
+      "rank": 4,
+      "relevance_score": 0.09,
+      "document_name": "2.pdf",
+      "section_title": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page_number": 3,
+      "page_range": {
+        "start": 3,
+        "end": 3
+      },
+      "heading_level": 1,
+      "content": {
+        "text": "AUGUST 2019\n6    NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.",
+        "word_count": 14,
+        "character_count": 99
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 99,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.29000000000000004
+      }
+    },
+    {
+      "rank": 5,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "THE CENTRE FOR HUMANITARIAN DATA",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 1,
+      "content": {
+        "text": "AUGUST 2019",
+        "word_count": 2,
+        "character_count": 11
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 11,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    },
+    {
+      "rank": 6,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "WHAT IS A DATA INCIDENT IN HUMANITARIAN RESPONSE?",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "",
+        "word_count": 0,
+        "character_count": 0
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 0,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    },
+    {
+      "rank": 7,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "In the humanitarian sector, data incidents are events involving the management of data that have caused",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "",
+        "word_count": 0,
+        "character_count": 0
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 0,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    },
+    {
+      "rank": 8,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "harm or have the potential to cause harm to crisis affected populations, humanitarian organisations",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "",
+        "word_count": 0,
+        "character_count": 0
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 0,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    },
+    {
+      "rank": 9,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "and their operations, and other individuals or groups. These events can exploit or exacerbate existing",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "",
+        "word_count": 0,
+        "character_count": 0
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 0,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    },
+    {
+      "rank": 10,
+      "relevance_score": 0.063,
+      "document_name": "2.pdf",
+      "section_title": "vulnerabilities.1 In some cases, they may also create new vulnerabilities that can increase the risk of future",
+      "page_number": 1,
+      "page_range": {
+        "start": 1,
+        "end": 1
+      },
+      "heading_level": 3,
+      "content": {
+        "text": "",
+        "word_count": 0,
+        "character_count": 0
+      },
+      "relevance_indicators": {
+        "contains_high_priority_terms": false,
+        "contains_medium_priority_terms": false,
+        "title_relevance": false
+      },
+      "extraction_metadata": {
+        "text_length": 0,
+        "pdf_path": "d:\\VS_CODE\\Adobe\\LLM_SE_LLM_Adobe\\Round1b\\pdf\\2.pdf",
+        "extraction_confidence": 0.263
+      }
+    }
+  ],
+  "subsection_analysis": []
+}

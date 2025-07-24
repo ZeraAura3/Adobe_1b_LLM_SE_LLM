@@ -1,0 +1,41 @@
+=== PERSONA-DRIVEN DOCUMENT INTELLIGENCE REPORT ===
+Generated: 2025-07-24T16:39:01.770635
+
+PERSONA: I am a student at IIT Mandi pursuing Btech in mathematics and Computing
+JOB TO BE DONE: I want data relavent to education and Mathematics
+
+DOCUMENTS ANALYZED: 2.pdf
+TOTAL SECTIONS FOUND: 145
+TOP RELEVANT SECTIONS: 10
+
+=== TOP RELEVANT SECTIONS ===
+
+1. 7    The Centre for Humanitarian Data provides several sources of guidance that can inform the development of Data Incident Management SOPs on
+   Document: 2.pdf
+   Page: 4
+   Relevance Score: 0.113
+   Word Count: 83
+
+2. THE CENTRE FOR HUMANITARIAN DATA
+   Document: 2.pdf
+   Page: 1
+   Relevance Score: 0.090
+   Word Count: 16
+
+3. types of organizations: those who have been hacked, and those who will be.”
+   Document: 2.pdf
+   Page: 1
+   Relevance Score: 0.090
+   Word Count: 13
+
+4. THE CENTRE FOR HUMANITARIAN DATA
+   Document: 2.pdf
+   Page: 3
+   Relevance Score: 0.090
+   Word Count: 14
+
+5. THE CENTRE FOR HUMANITARIAN DATA
+   Document: 2.pdf
+   Page: 1
+   Relevance Score: 0.063
+   Word Count: 2

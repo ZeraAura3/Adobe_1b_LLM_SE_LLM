@@ -1,0 +1,234 @@
+================================================================================
+RELEVANT INFORMATION EXTRACTION REPORT
+================================================================================
+
+📊 ANALYSIS SUMMARY
+----------------------------------------
+📅 Generated: 2025-07-24T16:39:01.770635
+📄 Documents: 2.pdf
+📝 Total Sections Analyzed: 145
+🎯 Top Sections Selected: 10
+
+👤 YOUR PROFILE
+----------------------------------------
+Persona: I am a student at IIT Mandi pursuing Btech in mathematics and Computing
+Task: I want data relavent to education and Mathematics
+
+🔍 Analysis Results:
+   • Role: student
+   • Domain: education
+   • Expertise: beginner
+   • Search Terms: 8 generated
+
+🤖 PROCESSING DETAILS
+----------------------------------------
+Model: all-MiniLM-L6-v2
+Dependencies Available: False
+Scoring Weights: Semantic 60%, Lexical 25%, Title 15%
+
+🎯 TOP RELEVANT SECTIONS
+================================================================================
+
+SECTION 1
+------------------------------------------------------------
+📊 Relevance Score: 0.1128
+📄 Document: 2.pdf
+📑 Title: 7    The Centre for Humanitarian Data provides several sources of guidance that can inform the development of Data Incident Management SOPs on
+📃 Page: 4
+🔢 Heading Level: 3
+📝 Word Count: 83
+🔤 Character Count: 594
+🎯 Contains High Priority Terms: Yes
+🎯 Contains Medium Priority Terms: Yes
+🎯 Title Relevance: No
+
+📖 CONTENT:
+------------------------------
+the Data Responsibility page.
+8    How to handle incidents according to ISO 27001 A.16, Antonio Jose Segovia, (October 2015.).
+9    For humanitarian organizations, an example of such a classification is the World Health Organization’s (WHO) International Classification of
+Patient Safety, Conceptual Framework for the International Classification of Patient Safety.
+10 WHO, Conceptual Framework for the International Classification of Patient Safety.
+Figure 3: Five steps in the treatment of security...
+[Content truncated - full text has 594 characters]
+
+================================================================================
+
+SECTION 2
+------------------------------------------------------------
+📊 Relevance Score: 0.0900
+📄 Document: 2.pdf
+📑 Title: THE CENTRE FOR HUMANITARIAN DATA
+📃 Page: 1
+🔢 Heading Level: 1
+📝 Word Count: 16
+🔤 Character Count: 112
+🎯 Contains High Priority Terms: Yes
+🎯 Contains Medium Priority Terms: Yes
+🎯 Title Relevance: No
+
+📖 CONTENT:
+------------------------------
+AUGUST 2019
+a threat source.” NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.
+
+================================================================================
+
+SECTION 3
+------------------------------------------------------------
+📊 Relevance Score: 0.0900
+📄 Document: 2.pdf
+📑 Title: types of organizations: those who have been hacked, and those who will be.”
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 13
+🔤 Character Count: 86
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT:
+------------------------------
+- Rahel Dette, Do No Digital Harm: Mitigating Technology Risk in Humanitarian Contexts
+
+================================================================================
+
+SECTION 4
+------------------------------------------------------------
+📊 Relevance Score: 0.0900
+📄 Document: 2.pdf
+📑 Title: THE CENTRE FOR HUMANITARIAN DATA
+📃 Page: 3
+🔢 Heading Level: 1
+📝 Word Count: 14
+🔤 Character Count: 99
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT:
+------------------------------
+AUGUST 2019
+6    NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.
+
+================================================================================
+
+SECTION 5
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: THE CENTRE FOR HUMANITARIAN DATA
+📃 Page: 1
+🔢 Heading Level: 1
+📝 Word Count: 2
+🔤 Character Count: 11
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT:
+------------------------------
+AUGUST 2019
+
+================================================================================
+
+SECTION 6
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: WHAT IS A DATA INCIDENT IN HUMANITARIAN RESPONSE?
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 0
+🔤 Character Count: 0
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT: [No text content available]
+
+================================================================================
+
+SECTION 7
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: In the humanitarian sector, data incidents are events involving the management of data that have caused
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 0
+🔤 Character Count: 0
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT: [No text content available]
+
+================================================================================
+
+SECTION 8
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: harm or have the potential to cause harm to crisis affected populations, humanitarian organisations
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 0
+🔤 Character Count: 0
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT: [No text content available]
+
+================================================================================
+
+SECTION 9
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: and their operations, and other individuals or groups. These events can exploit or exacerbate existing
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 0
+🔤 Character Count: 0
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT: [No text content available]
+
+================================================================================
+
+SECTION 10
+------------------------------------------------------------
+📊 Relevance Score: 0.0630
+📄 Document: 2.pdf
+📑 Title: vulnerabilities.1 In some cases, they may also create new vulnerabilities that can increase the risk of future
+📃 Page: 1
+🔢 Heading Level: 3
+📝 Word Count: 0
+🔤 Character Count: 0
+🎯 Contains High Priority Terms: No
+🎯 Contains Medium Priority Terms: No
+🎯 Title Relevance: No
+
+📖 CONTENT: [No text content available]
+
+================================================================================
+
+📈 EXTRACTION STATISTICS
+----------------------------------------
+📊 Total Extracted Words: 128
+📊 Total Extracted Characters: 902
+📊 Sections with Content: 5/10
+📊 Average Relevance Score: 0.0761
+📊 Page Range: 1 - 4
+📊 Unique Pages: 3
+
+📁 Full detailed results available in: result.json
+📁 Debug information available in: debug_info.json
+
+================================================================================
+Report generated by Persona-Driven Document Intelligence System
+================================================================================
