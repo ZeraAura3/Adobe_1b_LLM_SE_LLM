@@ -1,0 +1,1 @@
+I am a data scientist with 5 years of experience in machine learning and artificial intelligence. I specialize in deep learning, natural language processing, and computer vision. I work with Python, TensorFlow, and PyTorch regularly. I'm particularly interested in transformer architectures and attention mechanisms for NLP applications.
